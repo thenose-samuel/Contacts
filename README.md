@@ -2,15 +2,15 @@
 
 An online contacts app
 
-## Getting Started
+Theme:
+Follow Material You Guidelines as close as possible
 
-This project is a starting point for a Flutter application.
+State Management:
+Provider???
 
-A few resources to get you started if this is your first Flutter project:
+Backend:
+Java
+SQL??
+Gotta find a way to host the database
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Should handle user sign up and log in as well
