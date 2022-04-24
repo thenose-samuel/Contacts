@@ -1,4 +1,4 @@
-import 'package:contacts_book/retrieve_contacts/retrieve_contacts.dart';
+import 'package:contacts_book/screens/contacts_list/contacts_list.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: RetrieveContacts(),
+      home: ContactsList(),
     );
   }
 }
